@@ -1,0 +1,15 @@
+.main_content {
+    border-radius: 5px;
+    background-color:#ffffff;
+    border-color: #dddddd;
+    padding: 20px;
+    width: 960px;
+    flex: 1 0 auto;
+    margin: auto;
+    height: auto;
+}
+
+.img-fluid float-left{
+    width: 200px;
+    height: 200px;
+}
